@@ -21,7 +21,7 @@ export default {
             }
         },
     }
-} as Meta<TextInputRootProps>
+} as Meta<TextInputRootProps> 
 
 export const Default: StoryObj<TextInputRootProps> = {}
 

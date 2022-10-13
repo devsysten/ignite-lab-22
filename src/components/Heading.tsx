@@ -21,6 +21,6 @@ export function Heading({ size = 'md', children, asChild }: HeadingProps) {
             )}
         >
             { children }
-        </Comp>
+        </Comp> 
     )
 }
